@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blkdev02
 - 👀 I’m interested in machine learning, devops, blockchain and AI robotics 
-- 🌱 I’m able to code python, Golang, Java, Javascript and C++ 
+- 🌱 I’m able to code python, Golang
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me ...
 
